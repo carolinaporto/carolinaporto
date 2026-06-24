@@ -15,7 +15,7 @@
 
 ---
 
-## Hi, I'm Carolina 👋
+## Hi, I'm Maria Carolina (Carol)👋
 
 Computer Engineering student at Insper.
 

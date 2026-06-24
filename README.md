@@ -45,6 +45,7 @@ Incoming Visiting Undergraduate Student at Harvard College (2026–2027).
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carolinaporto&theme=tokyonight&hide_border=true" />
 </p>
+
 --- 
 
 ## Currently Exploring

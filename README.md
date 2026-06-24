@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Maria%20Carolina%20Porto&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=170&section=header&text=Maria%20Carolina%20Porto&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">Computer Engineering Student | AI • Software Engineering • Entrepreneurship</h3>
@@ -29,42 +29,8 @@ Incoming Visiting Undergraduate Student at Harvard College (2026–2027).
 
 ## Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carolinaporto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaporto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carolinaporto&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,postgres,git" />
 </p>
 
 ---
@@ -79,5 +45,5 @@ Incoming Visiting Undergraduate Student at Harvard College (2026–2027).
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=110&section=footer"/>
 </p>

@@ -21,7 +21,7 @@ Computer Engineering student at Insper.
 
 Interested in AI, software engineering, and entrepreneurship.
 
-Co-founder & Vice President at Insper AI.
+Co-founder at Insper AI.
 
 Incoming Visiting Undergraduate Student at Harvard College (2026–2027).
 

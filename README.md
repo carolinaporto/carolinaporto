@@ -17,6 +17,9 @@ Building technology that creates real-world impact.
   <a href="https://github.com/carolinaporto">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://mcporto.com">
+    <img src="https://img.shields.io/badge/Website-mcporto.com-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -81,12 +84,7 @@ In 2026–2027, I'll join **Harvard College** as a **Visiting Undergraduate Stud
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carolinaporto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaporto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+# 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=carolinaporto&theme=tokyonight&hide_border=true" />
